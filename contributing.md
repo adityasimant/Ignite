@@ -2,6 +2,7 @@
 Thank you for considering and taking the time to contribute!
 
 # How to add improvements :
+Go through the [setup-guide](https://github.com/IgnitePluse/Ignite/blob/master/Setup-guide.md) .
 Please open a [new issue](https://github.com/adityasimant/Ignite/issues) about the 
 appropriate file and idea or improvements you want
 to add with all the
